@@ -1,4 +1,4 @@
-public class CanFly implements FlyFeature{
+public class CanFly implements FlyFeature {
 
     @Override
     public void fly() {
